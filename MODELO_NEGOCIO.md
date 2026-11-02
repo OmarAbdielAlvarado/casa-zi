@@ -25,9 +25,16 @@ el software NUNCA se envía por internet.
 
 ## 3. Monedas
 - Los precios en pesos mexicanos aplican **SOLO para México**.
-- Fuera de México: 【por definir — moneda y monto】.
+- Fuera de México: **9.99 dólares (USD)** o su equivalente en la moneda local.
 
-## 4. Reglas de la casa (no negociables)
+## 4. Pagos
+- México: pesos mexicanos (efectivo, transferencia o digital).
+- Internacional: 9.99 USD o equivalente en la moneda local.
+- **Enfoque de cobro: criptomonedas.**
+  Pendiente de implementar: enlazar cuentas bancarias y cuentas
+  digitales de la casa.
+
+## 5. Reglas de la casa (no negociables)
 - Las contraseñas jamás viajan por chat: se teclean en el aparato,
   frente a nosotros.
 - El cliente llega con su propio respaldo (su seguro). La imagen de
@@ -35,7 +42,7 @@ el software NUNCA se envía por internet.
   seguro al entregar.
 - Un aparato recién limpiado NO restaura el respaldo viejo.
 
-## 5. Lo que NO somos
+## 6. Lo que NO somos
 - No vendemos datos, no ponemos anuncios, no escarbamos archivos.
 - No cobramos renta de software ajeno: la membresía paga software
   propio y soporte humano.

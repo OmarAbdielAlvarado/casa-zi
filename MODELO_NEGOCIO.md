@@ -25,14 +25,33 @@ el software NUNCA se envía por internet.
 
 ## 3. Monedas
 - Los precios en pesos mexicanos aplican **SOLO para México**.
-- Fuera de México: **9.99 dólares (USD)** o su equivalente en la moneda local.
+- Fuera de México: **6.99 dólares (USD)** o su equivalente en la moneda local.
 
-## 4. Pagos
-- México: pesos mexicanos (efectivo, transferencia o digital).
-- Internacional: 9.99 USD o equivalente en la moneda local.
-- **Enfoque de cobro: criptomonedas.**
-  Pendiente de implementar: enlazar cuentas bancarias y cuentas
-  digitales de la casa.
+## 4. Pagos (v3.2 — precios finales, 3-nov-2026)
+
+**México — pesos mexicanos** (efectivo, transferencia o digital):
+- Instalación: **499 MXN POR CADA equipo** (una sola vez).
+- App o servicio SUELTO: **99 MXN al mes** (una sola app, soporte incluido).
+- **PAQUETE 3+**: si un cliente necesita **3 o más servicios**, paga
+  **299 MXN al mes EN TOTAL**, sin importar si son 30 o 50 apps o
+  software: el paquete es por concepto de soporte.
+- Casa conectada (base): **99 MXN al mes** (no es renta; si se cancela,
+  se adquiere de nuevo).
+- Reconexión o revisión posterior: se cobra por equipo, igual que la
+  instalación.
+
+**Internacional — dólares (USD)** o equivalente en moneda local:
+- Membresía: **6.99 USD al mes** (todo incluido).
+- App suelta: **4.99 USD al mes**.
+- Datacenter (servidor administrado): **3.99 USD al mes**.
+- Datacenter: apps gratuitas + apps de pago, mismo esquema para todos.
+- **Enfoque de cobro: criptomonedas.** Pendiente de implementar:
+  enlazar cuentas bancarias y cuentas digitales de la casa.
+
+**Pagos a tiempo (regla de la casa):**
+- **Zi revisa los pagos** cada semana y avisa lo que falte.
+- Si alguien no paga a tiempo: Zi lo registra, avisa y el servicio se
+  pausa. La membresía no se hereda: para volver, se adquiere de nuevo.
 
 ## 5. Reglas de la casa (no negociables)
 - Las contraseñas jamás viajan por chat: se teclean en el aparato,

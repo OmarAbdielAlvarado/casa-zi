@@ -1,0 +1,14 @@
+# Ficha de recepcion (una por equipo)
+- Fecha de entrada:
+- Dueno y telefono:
+- Aparato (marca/modelo):
+- Estado en que se entrego:
+- Clave de desbloqueo: el dueno desbloquea en mano. NUNCA se pide por escrito.
+- Que pide el dueno:
+- Respaldo hecho (donde y tamano):
+- Software intrusivo encontrado:
+- Trabajo autorizado:
+- Precio acordado:
+- Fecha de entrega:
+- Entrega a domicilio (cargo):
+- Observaciones:

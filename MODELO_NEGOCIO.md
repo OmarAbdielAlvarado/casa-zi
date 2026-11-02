@@ -17,3 +17,11 @@ la casa lo instala y lo devuelve a domicilio (cargo del cliente).
 - v1 del acompanamiento corre sobre Linux; Windows/Mac solo bajo demanda
 - Los aparatos viejos entran (iPad mini 2, torres, Android, iPhone)
 - Jamas se fuerza una clave; el dueno desbloquea en mano
+
+## Reglas de datos (acuerdo 02-nov-2026)
+- El cliente llega con respaldo propio reciente: es SU seguro por si algo sale mal.
+- El aparato llega desbloqueado, o con clave TEMPORAL que el dueno cambia antes de
+  enviar y despues de recibir. Telegram solo para coordinar: NUNCA claves.
+- La casa toma una imagen de trabajo CON autorizacion del dueno (firmada en la ficha).
+- Al entregar, la casa BORRA esa imagen con borrado seguro y lo anota en la ficha.
+- QR descartado para entrega de software: el hardware viene fisicamente a la casa.

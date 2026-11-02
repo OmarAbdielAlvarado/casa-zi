@@ -12,3 +12,7 @@
 - Fecha de entrega:
 - Entrega a domicilio (cargo):
 - Observaciones:
+- Respaldo propio del dueno (si/no, fecha):
+- Autorizacion para imagen de trabajo (si/no, firma):
+- Clave temporal usada (si/no):
+- Imagen de trabajo borrada al entregar (si/no, fecha, metodo):

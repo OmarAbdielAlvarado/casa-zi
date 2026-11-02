@@ -1,27 +1,41 @@
-# Modelo de negocio de la casa
-## Regla de oro
-El software NUNCA se envia por internet. Quien lo quiere, entrega su hardware;
-la casa lo instala y lo devuelve a domicilio (cargo del cliente).
-## Flujo de recepcion (cada equipo)
-1. Alta del equipo (ficha de recepcion)
-2. Supervision: revision completa, respaldo, chequeo de software intrusivo
-3. Cotizacion exacta de lo que necesita, sin sorpresas
-4. Instalacion: IA local si el hardware da; si no, cliente ligero que consulta
-   la maquina de la casa por WiFi
-5. Entrega a domicilio y validacion con el dueno
-6. Acompanamiento mensual
-## Precios
-- Instalacion: $499 MXN (500-1)
-- Acompanamiento mensual: $99 MXN (100-1)
-## Notas
-- v1 del acompanamiento corre sobre Linux; Windows/Mac solo bajo demanda
-- Los aparatos viejos entran (iPad mini 2, torres, Android, iPhone)
-- Jamas se fuerza una clave; el dueno desbloquea en mano
+# MODELO DE NEGOCIO — Casa de Zi (v3, 2-nov-2026)
 
-## Reglas de datos (acuerdo 02-nov-2026)
-- El cliente llega con respaldo propio reciente: es SU seguro por si algo sale mal.
-- El aparato llega desbloqueado, o con clave TEMPORAL que el dueno cambia antes de
-  enviar y despues de recibir. Telegram solo para coordinar: NUNCA claves.
-- La casa toma una imagen de trabajo CON autorizacion del dueno (firmada en la ficha).
-- Al entregar, la casa BORRA esa imagen con borrado seguro y lo anota en la ficha.
-- QR descartado para entrega de software: el hardware viene fisicamente a la casa.
+## Lo que vendemos
+Una IA completa por casa, programada por y para el dueño de la casa.
+Solo software libre. El hardware viene físicamente a la casa;
+el software NUNCA se envía por internet.
+
+## 1. Casa (instalación local)
+- Instalación a domicilio sobre la máquina que ya tienes:
+  **499 pesos mexicanos** (pago único).
+- **Membresía: 99 pesos mexicanos al mes.** No es una renta:
+  es la membresía del software propio hecho en la casa + soporte al
+  usuario — por eso se cobra. Si cancelas, la membresía termina;
+  para regresar, se adquiere de nuevo (no hay reactivación).
+- Si tu equipo no da para IA local, lo convertimos en **cliente
+  ligero** que consulta la máquina de tu casa por WiFi.
+- v1 en Linux. Windows/Mac bajo demanda.
+
+## 2. Datacenter (la IA a nivel mundial)
+- La misma IA servida desde un datacenter, con **aplicaciones
+  gratuitas y aplicaciones de pago** conviviendo.
+- Regla: quien quiera contratar y usar la IA de datacenter entra
+  por el mismo esquema para todos (tarifa única, sin tratos especiales).
+- Precios y alcance del datacenter: 【por definir — decisión de Omar】.
+
+## 3. Monedas
+- Los precios en pesos mexicanos aplican **SOLO para México**.
+- Fuera de México: 【por definir — moneda y monto】.
+
+## 4. Reglas de la casa (no negociables)
+- Las contraseñas jamás viajan por chat: se teclean en el aparato,
+  frente a nosotros.
+- El cliente llega con su propio respaldo (su seguro). La imagen de
+  trabajo se hace con autorización firmada y se borra con borrado
+  seguro al entregar.
+- Un aparato recién limpiado NO restaura el respaldo viejo.
+
+## 5. Lo que NO somos
+- No vendemos datos, no ponemos anuncios, no escarbamos archivos.
+- No cobramos renta de software ajeno: la membresía paga software
+  propio y soporte humano.
